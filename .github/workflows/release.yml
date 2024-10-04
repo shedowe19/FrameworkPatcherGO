@@ -1,4 +1,4 @@
-name: Zip & Upload Release
+name: Zip & Upload Releases
 
 on:
   push:
